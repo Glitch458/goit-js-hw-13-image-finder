@@ -10,7 +10,7 @@ const buttonEl = document.querySelector('.button');
 let queryName = '';
 let pageNumber = '1';
 
-const fetchImages = async e => {
+const fetchImages = async () => {
   let res = await apiService(queryName, pageNumber);
   let images = await res.json();
   galleryEl.insertAdjacentHTML('beforeend', imageCardTpl(images));

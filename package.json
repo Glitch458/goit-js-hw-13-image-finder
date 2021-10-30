@@ -10,13 +10,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Glitch458/goit-js-hw-13-image-finder.git"
+    "url": "git+https://github.com/glitch458/goit-js-hw-13-image-finder.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Glitch458/goit-js-hw-13-image-finder/issues"
+    "url": "https://github.com/glitch458/goit-js-hw-13-image-finder/issues"
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.5",
